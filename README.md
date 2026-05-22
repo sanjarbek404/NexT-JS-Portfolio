@@ -18,8 +18,8 @@ Loyihani kompyuteringizda (mahalliy muhitda) ishga tushirish uchun quyidagi ko'r
 
 1. **Loyihani yuklab oling (Clone):**
    ```bash
-   git clone <repo-url>
-   cd <project-folder>
+   git clone https://github.com/sanjarbek404/NexT-JS-Portfolio.git
+   cd <portfolio>
    ```
 
 2. **Dasturiy qaramliklarni (dependencies) o'rnating:**
