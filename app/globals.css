@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .outline-text {
+    -webkit-text-stroke: 1.5px #444;
+    color: transparent;
+  }
+}
